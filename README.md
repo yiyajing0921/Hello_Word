@@ -1,1 +1,1 @@
-# Hello_Word
+# I was a rookie , yixiayixia yo
