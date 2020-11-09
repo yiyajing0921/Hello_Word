@@ -10,11 +10,5 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //第一次提交
-        //修改TAG后提交
-        //测试分支内容
-        //首先提交tag内容
-        //修改了数据，查看TAG和本地数据的区别11111
-        //修改TAG后提交所有数据
     }
 }
